@@ -6,3 +6,5 @@ lua/**/compiled.lua
 *.swo
 *.tmp
 *.bak
+.DS_Store
+
